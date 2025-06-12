@@ -40,3 +40,7 @@
     tr:hover {
       background-color: #e0f7fa;
     }
+    div {
+  width: 42%;
+  display: inline-block;
+}

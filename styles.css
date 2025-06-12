@@ -40,7 +40,7 @@
     tr:hover {
       background-color: #e0f7fa;
     }
-    div {
+    .card {
   width: 42%;
   display: inline-block;
 }
